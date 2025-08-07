@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ehtasham Ul Haq
+#  Hi, I'm Ehtasham Ul Haq
 
 🎓 Software Engineering Student (7th Semester)  
 💻 Junior Front-End Developer @ a Startup  
@@ -7,37 +7,37 @@
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 **Languages**: JavaScript, HTML, CSS  
 **Frameworks/Libraries**: React.js, Tailwind CSS, Axios, ShadCN, Sanity  
 **Tools**: GitHub, GitHub Desktop, VS Code, Formspree  
 
 ---
 
-## 🛤️ My Developer Journey
+##  My Developer Journey
 
-### 🟢 Beginner Level Projects (Vanilla JS)
+###  Beginner Level Projects (Vanilla JS)
 These projects mark the beginning of my web development path, focusing on core JavaScript, DOM manipulation, and UI logic.
 
-- 🎯 **[Calculator](#)** — Simple calculator with basic arithmetic operations  
-- 🎯 **[Image Slider](#)** — Auto/manual slider using DOM and timers  
-- 🎯 **[To-Do List](#)** — Add/remove tasks with basic UI interactions  
+-  **[Calculator](#)** — Simple calculator with basic arithmetic operations  
+-  **[Image Slider](#)** — Auto/manual slider using DOM and timers  
+-  **[To-Do List](#)** — Add/remove tasks with basic UI interactions  
 
-### 🟡 Intermediate Projects
+###  Intermediate Projects
 These were focused on building structured UI and better code separation, taking on slightly complex challenges.
 
-- 🎵 **[Spotify Clone](#)** — Frontend clone of Spotify layout with image assets and folder structuring  
-- 🎮 **[Connect 4 Game](#)** — Built in React, applying logic and UI interactivity in a real game  
+-  **[Spotify Clone](#)** — Frontend clone of Spotify layout with image assets and folder structuring  
+-  **[Connect 4 Game](#)** — Built in React, applying logic and UI interactivity in a real game  
 
-### 🔵 Real-World Projects
+###  Real-World Projects
 These represent professional-level, production-ready work where I applied everything I've learned.
 
-- 🛒 **[E-Commerce Website](#)** — Built with React; features modern layout and responsive design  
-- 💼 **[Synctom Website](#)** — Live IT Company website using Tailwind, ShadCN, Axios, Sanity, Formspree *(ongoing updates)*  
+-  **[E-Commerce Website](#)** — Built with React; features modern layout and responsive design  
+-  **[Synctom Website](#)** — Live IT Company website using Tailwind, ShadCN, Axios, Sanity, Formspree *(ongoing updates)*  
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 > Click to explore repositories and live demos (to be updated as hosted)
 
 | Project | Stack | Description |
