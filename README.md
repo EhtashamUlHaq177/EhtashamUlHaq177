@@ -1,9 +1,9 @@
 #  Hi, I'm Ehtasham Ul Haq
 
-🎓 Software Engineering Student (7th Semester)  
-💻 Junior Front-End Developer @ a Startup  
-🧠 AI Enthusiast | FYP: Brain Tumor Detection using Multimodal Longitudinal Data  
-🌐 Passionate about building real-world, scalable, and clean UI solutions  
+ Software Engineering Student (7th Semester)  
+ Junior Front-End Developer @ a Startup  
+ AI Enthusiast | FYP: Brain Tumor Detection using Multimodal Longitudinal Data  
+ Passionate about building real-world, scalable, and clean UI solutions  
 
 ---
 
@@ -38,7 +38,9 @@ These represent professional-level, production-ready work where I applied everyt
 ---
 
 ##  Featured Projects
-> Click to explore repositories and live demos (to be updated as hosted)
+
+Image slider: https://ehtashamulhaq177.github.io/image-slider/
+Calculator:   https://ehtashamulhaq177.github.io/calculator/
 
 | Project | Stack | Description |
 |--------|--------|-------------|
@@ -49,10 +51,10 @@ These represent professional-level, production-ready work where I applied everyt
 
 ---
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQG4cQxcwQsaTAAAAZiArJng2EWN4S5foPOhA4LCOaQMq21BBGxTzPpG0tnrXmqRZvExMdD3jbf-j6MgH_nxu4j8jj7tO1BxScVWym5gCUxw-mSzRYlEvraQoC-O_LmhiIpI9Mk=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fehtasham-ul-haq-86069b274%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app)
+##  Connect With Me
+-  [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQG4cQxcwQsaTAAAAZiArJng2EWN4S5foPOhA4LCOaQMq21BBGxTzPpG0tnrXmqRZvExMdD3jbf-j6MgH_nxu4j8jj7tO1BxScVWym5gCUxw-mSzRYlEvraQoC-O_LmhiIpI9Mk=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fehtasham-ul-haq-86069b274%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app)
 
-- ✉️ Email: ehtashamulhaq17744@gmail.com
+-  Email: ehtashamulhaq17744@gmail.com
 
 ---
 
