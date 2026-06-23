@@ -1,61 +1,125 @@
-#  Hi, I'm Ehtasham Ul Haq
+# Hi, I'm Ehtasham Ul Haq
 
- Software Engineering Student (7th Semester)  
- Junior Front-End Developer @ a Startup  
- AI Enthusiast | FYP: Brain Tumor Detection using Multimodal Longitudinal Data  
- Passionate about building real-world, scalable, and clean UI solutions  
+MERN Stack Developer and Software Engineering student passionate about building scalable web applications with React.js, Node.js, Express.js, and MongoDB. I enjoy developing responsive user interfaces, RESTful APIs, and AI-integrated solutions while continuously learning modern technologies and software engineering best practices.
 
 ---
 
-##  Tech Stack
-**Languages**: JavaScript, HTML, CSS  
-**Frameworks/Libraries**: React.js, Tailwind CSS, Axios, ShadCN, Sanity  
-**Tools**: GitHub, GitHub Desktop, VS Code, Formspree  
+## Tech Stack
+
+### Languages
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Java
+- C++
+- Python
+
+
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- Bootstrap
+- Context API
+- Responsive Design
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### Database
+- MongoDB
+- MySQL
+
+### AI & Machine Learning
+- AI Model Integration
+- Deep Learning (CNNs)
+- Python
+- Medical Image Processing
+
+### Tools
+- Git
+- GitHub
+- GitHub Desktop
+- VS Code
+- Postman
+- Vite
+- Sanity CMS
+- Axios
+- ShadCN UI
+- Formspree
+- ClickUp
 
 ---
 
-##  My Developer Journey
+## My Developer Journey
 
-###  Beginner Level Projects (Vanilla JS)
-These projects mark the beginning of my web development path, focusing on core JavaScript, DOM manipulation, and UI logic.
+### Beginner Projects (HTML, CSS & JavaScript)
 
--  **[Calculator](#)** — Simple calculator with basic arithmetic operations  
--  **[Image Slider](#)** — Auto/manual slider using DOM and timers  
--  **[To-Do List](#)** — Add/remove tasks with basic UI interactions  
+Projects that strengthened my understanding of JavaScript fundamentals, DOM manipulation, and interactive UI development.
 
-###  Intermediate Projects
-These were focused on building structured UI and better code separation, taking on slightly complex challenges.
+- Calculator
+- Image Slider
+- To-Do List
 
--  **[Spotify Clone](#)** — Frontend clone of Spotify layout with image assets and folder structuring  
--  **[Connect 4 Game](#)** — Built in React, applying logic and UI interactivity in a real game  
+### Intermediate Projects
 
-###  Real-World Projects
-These represent professional-level, production-ready work where I applied everything I've learned.
+Projects focused on component-based architecture, application logic, and responsive interfaces.
 
--  **[E-Commerce Website](#)** — Built with React; features modern layout and responsive design  
--  **[Synctom Website](#)** — Live IT Company website using Tailwind, ShadCN, Axios, Sanity, Formspree *(ongoing updates)*  
+- Spotify Clone
+- Connect 4 Game (React)
+- Multi-Page E-Commerce Frontend (React)
+
+### Professional & Academic Projects
+
+Projects developed in real-world and research environments.
+
+- AI-Powered Brain Tumor Detection System (MERN + Python)
+- Production Web Applications at Synctom
+- Modern Point of Sale (POS) System (Next.js)
 
 ---
 
-##  Featured Projects
-
-Image slider: https://ehtashamulhaq177.github.io/image-slider/
-Calculator:   https://ehtashamulhaq177.github.io/calculator/
+## Featured Projects
 
 | Project | Stack | Description |
-|--------|--------|-------------|
-| Calculator | HTML, CSS, JS | Basic calculator to perform arithmetic |
-| Spotify Clone | HTML, CSS, JS | UI clone of Spotify's homepage |
-| Connect 4 | React.js | Game logic and interactivity |
-| Synctom Website | React.js, Tailwind, Axios, Sanity | Production-ready hosted website |
+|---------|-------|-------------|
+| Calculator | HTML, CSS, JavaScript | Responsive calculator with core arithmetic functionality |
+| Image Slider | HTML, CSS, JavaScript | Automatic and manual image slider with smooth navigation |
+| To-Do List | HTML, CSS, JavaScript | Task management application with local interactions |
+| Spotify Clone | HTML, CSS, JavaScript | Responsive Spotify-inspired music player interface |
+| Connect 4 | React.js | Interactive Connect 4 game with game state management |
+| E-Commerce Website | React.js, Context API | Multi-page shopping experience with product catalog and cart |
+| AI Brain Tumor Detection | MERN, Python, AI | Full-stack application integrating AI for medical image analysis |
+
+### Live Demos
+
+- Calculator → https://ehtashamulhaq177.github.io/calculator/
+- Image Slider → https://ehtashamulhaq177.github.io/image-slider/
+- To-Do List → https://ehtashamulhaq177.github.io/todolist/
+- Spotify Clone → https://ehtashamulhaq177.github.io/spotify-clone/
+- Connect 4 → https://ehtashamulhaq177.github.io/connect-4/
+- E-Commerce Website → https://ehtashamulhaq177.github.io/ecommerce-site/
 
 ---
 
-##  Connect With Me
--  [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQG4cQxcwQsaTAAAAZiArJng2EWN4S5foPOhA4LCOaQMq21BBGxTzPpG0tnrXmqRZvExMdD3jbf-j6MgH_nxu4j8jj7tO1BxScVWym5gCUxw-mSzRYlEvraQoC-O_LmhiIpI9Mk=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fehtasham-ul-haq-86069b274%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app)
+## Currently Working On
 
--  Email: ehtashamulhaq17744@gmail.com
+- MERN Stack Development
+- AI-Integrated Web Applications
+- REST API Development
+- Scalable Full-Stack Architecture
+- Final Year Project: AI-Powered Brain Tumor Detection System
 
 ---
 
-_“Consistency builds growth. I’m learning, building, and shipping one step at a time.”_
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ehtasham-ul-haq-86069b274
+- Email: ehtashamulhaq17744@gmail.com
+
+---
+
+> "Consistency builds expertise. Every project is another step toward becoming a better software engineer."
